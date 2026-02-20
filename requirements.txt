@@ -4,6 +4,7 @@ numpy
 pandas
 Pillow
 plotly
-streamlit
+streamlit==1.52.1
+altair==4.2.2
 gdown
 opencv-python-headless
