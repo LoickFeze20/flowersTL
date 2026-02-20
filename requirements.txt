@@ -1,0 +1,7 @@
+numpy==2.4.2
+pandas==3.0.1
+Pillow==12.1.1
+plotly==6.5.0
+streamlit==1.52.1
+torch==2.8.0+cu129
+torchvision==0.23.0+cu129
